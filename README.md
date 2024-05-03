@@ -2,8 +2,6 @@
 
 👋 Welcome to my Github profile! An experienced Developer, specializing in Frontend and Backend development with over 2.7+ years of experience in the MERN Stack.
 
-![Siva-Tejaa's Stats](https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 <!--
 ## 🚀 About Me
 -->
@@ -37,7 +35,7 @@
 
 -->
 
-
+![Siva-Tejaa's Stats](https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📬 Get in Touch
 
