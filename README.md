@@ -39,7 +39,8 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Portfolio Website](https://sivateja.vercel.app/)
+- Explore my [Portfolio Website](https://sivateja.vercel.app/)
+- Send a mail to [Email](asivateja1999@gmail.com)
 - Connect with me on [Twitter](https://twitter.com/Siva_Tejaa)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
