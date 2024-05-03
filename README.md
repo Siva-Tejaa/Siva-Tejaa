@@ -4,22 +4,22 @@
 
 ![Siva-Tejaa's Stats](https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<!--
 ## 🚀 About Me
-
+-->
 ## 💼 Professional Summary:
 - With hands-on experience in JavaScript, React.js, Redux, HTML, CSS, TailwindCSS, Bootstrap, Node.js, Express.js and MySQL, I bring a wealth of knowledge to every project I undertake.
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- Passionate front-end developer with 2.7+ years of expertise, I've consistently delivered scalable and user-friendly solutions, ensuring seamless user experiences. With a strong command of React.js, HTML, CSS, JavaScript, and React Js alongside proficiency in Redux Toolkit, I've effectively translated design concepts into functional and visually captivating interfaces. My dedication lies in creating web applications that not only meet but exceed user expectations, driving positive engagement and leaving a lasting impact on our audience.
 
+<!--
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+-->
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,java)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -41,6 +41,7 @@
 
 ## 📬 Get in Touch
 
+- Connect with me on [Portfolio Website](https://sivateja.vercel.app/)
 - Connect with me on [Twitter](https://twitter.com/Siva_Tejaa)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
