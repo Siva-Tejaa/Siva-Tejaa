@@ -17,7 +17,7 @@
 
 
 ## 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,java&theme=light)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
