@@ -8,7 +8,7 @@
 ## 💼 Professional Summary:
 - With hands-on experience in JavaScript, React.js, Redux, HTML, CSS, TailwindCSS, Bootstrap, Node.js, Express.js and MySQL, I bring a wealth of knowledge to every project I undertake.
 
-- Passionate front-end developer with 2.7+ years of expertise, I've consistently delivered scalable and user-friendly solutions, ensuring seamless user experiences. With a strong command of React.js, HTML, CSS, JavaScript, and React Js alongside proficiency in Redux Toolkit, I've effectively translated design concepts into functional and visually captivating interfaces. My dedication lies in creating web applications that not only meet but exceed user expectations, driving positive engagement and leaving a lasting impact on our audience.
+- Passionate front-end developer with 2.8+ years of expertise, I've consistently delivered scalable and user-friendly solutions, ensuring seamless user experiences. With a strong command of React.js, HTML, CSS, JavaScript, and React Js alongside proficiency in Redux Toolkit, I've effectively translated design concepts into functional and visually captivating interfaces. My dedication lies in creating web applications that not only meet but exceed user expectations, driving positive engagement and leaving a lasting impact on our audience.
 
 <!--
 ## My Articles
