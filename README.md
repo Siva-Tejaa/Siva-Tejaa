@@ -45,9 +45,9 @@
 
 ## 📬 Get in Touch
 
-- Explore my [Portfolio Website](https://sivateja.vercel.app/)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/siva-tejaa/)
-- Connect with me on [Twitter](https://twitter.com/Siva_Tejaa)
+- Explore my [![Portfolio Website](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://sivateja.vercel.app/)
+- Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-tejaa/)
+- Connect with me on [![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=#000000)](https://twitter.com/Siva_Tejaa)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
