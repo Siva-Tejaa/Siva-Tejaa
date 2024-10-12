@@ -37,11 +37,23 @@
 
 -->
 
-![Siva-Tejaa's Stats](https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+   <table>
+     <tr>
+       <td><img alt="Siva Teja :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></td>
+       <td><img alt="Siva Teja :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"> </td>
+     </tr>
+<tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-Tejaa&theme=vue-dark&hide_border=true"></td>
+     </tr>
+   </table>
+</div>
+
+<!-- ![Siva-Tejaa's Stats](https://github-readme-stats.vercel.app/api?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Siva-Tejaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siva-Tejaa&theme=vue-dark&hide_border=true)
 
-![Siva-Tejaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Siva-Tejaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Tejaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ## 📬 Get in Touch
 
